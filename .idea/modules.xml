@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tb2g-testing-spring-test-properties/tb2g-testing-spring.iml" filepath="$PROJECT_DIR$/tb2g-testing-spring-test-properties/tb2g-testing-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tb2g-testing-spring-test-properties.iml" filepath="$PROJECT_DIR$/.idea/tb2g-testing-spring-test-properties.iml" />
+    </modules>
+  </component>
+</project>
